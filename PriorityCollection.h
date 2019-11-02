@@ -71,15 +71,3 @@ private:
 	set<pair<int, Id>> priorities;
 	vector<pair<T,set<pair<int, Id>>::iterator>> objects;
 };
-
-
-
-
-
-
-int main() {
-	
-	int z;
-	cin >> z;
-	return 0;
-}
